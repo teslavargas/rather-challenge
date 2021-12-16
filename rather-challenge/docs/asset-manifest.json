@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rather-challenge/static/css/main.9e8a3ddf.css",
-    "main.js": "/rather-challenge/static/js/main.d12d254d.js",
+    "main.js": "/rather-challenge/static/js/main.bdf5389e.js",
     "index.html": "/rather-challenge/index.html",
     "main.9e8a3ddf.css.map": "/rather-challenge/static/css/main.9e8a3ddf.css.map",
-    "main.d12d254d.js.map": "/rather-challenge/static/js/main.d12d254d.js.map"
+    "main.bdf5389e.js.map": "/rather-challenge/static/js/main.bdf5389e.js.map"
   },
   "entrypoints": [
     "static/css/main.9e8a3ddf.css",
-    "static/js/main.d12d254d.js"
+    "static/js/main.bdf5389e.js"
   ]
 }
