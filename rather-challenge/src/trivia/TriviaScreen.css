@@ -1,0 +1,48 @@
+.title {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.178);
+  padding: 10px;
+}
+
+.questions {
+  padding: 20px;
+  background-color: #333333;
+  box-shadow: 2px 4px 3px -1px rgba(0, 0, 0, 0.37);
+  -webkit-box-shadow: 2px 4px 3px -1px rgba(0, 0, 0, 0.37);
+  -moz-box-shadow: 2px 4px 3px -1px rgba(0, 0, 0, 0.37);
+  border-radius: 5px;
+}
+
+.questions h2 {
+  font-size: 23px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.options {
+  padding: 20px;
+}
+
+.options h2 {
+  font-size: 17px;
+  display: flex;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.226);
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.count span{
+    color: #786ff2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.score {
+    display: flex;
+    justify-content: center;
+    padding-top: 160px;
+}

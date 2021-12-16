@@ -1,0 +1,33 @@
+body {
+    background-color: #222222;
+}
+
+h1 {
+    color: white;
+}
+
+.trivia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 120px;
+}
+
+.trivia img {
+    width: 50px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.button button {
+    background-color: #786ff2;
+    border: none;
+}
+
+.button button:hover {
+    background-color: #514bad;
+}
